@@ -11,7 +11,7 @@ This repository contains Selenium test automation scripts for various web applic
 * This script opens [google.com](https://www.google.com/), finds the search bar, enters "cats," waits, and prints the title of the page.
 
 ### Task 3: Automating Login on LinkedIn
-* This script automates the login process for [LinkedIn](https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpublic-profile%2Fsettings%3Ftrk%3Dd_flagship3_profile_self_view_public_profile).
+* This script automates the login process for [LinkedIn](https://www.linkedin.com/home).
 
 ## Instructions:
 
